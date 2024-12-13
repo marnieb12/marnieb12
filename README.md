@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍🎓 About Me  
-Hey there! I’m Marnie, a 24-year-old with a passion for turning messy data into meaningful stories. I’m currently diving headfirst into the world of data analytics via completing a **Skills Bootcamp in Data Fundamentals**, where I learnt to wrangle data, code like a pro, and create stunning visualizations.  
+Hey there! I’m Marnie, a 24-year-old with a passion for turning messy data into meaningful stories. I’m currently diving headfirst into the world of data analytics and have just completed a **Skills Bootcamp in Data Fundamentals**, where I learnt to wrangle data, code like a pro, and create stunning visualizations.  
 
 ### 📚 **The Academic Stuff**  
 - 🎓 **BA (Hons) Criminology** (2:1) – I love understanding the “why” behind human behavior.  
