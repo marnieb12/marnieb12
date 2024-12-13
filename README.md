@@ -48,8 +48,8 @@ Here’s what’s in my data toolkit:
 ---
 
 ## 📈 GitHub Stats  
-![Marnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=marnie24&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marnie24&layout=compact&theme=radical)  
+![Marnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=marnieb12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marnieb12&layout=compact&theme=radical)  
 
 ---
 
