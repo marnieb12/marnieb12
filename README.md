@@ -25,9 +25,9 @@ Here’s what’s in my data toolkit:
 - 🐍 **Python**: My go-to for dataframes, data wrangling, and making sense of messy datasets.  
 -📊 **R Studio Code**: Great for statistical analysis and creating insightful visuals.
 
-### **Data Visualization & Reporting**  
+### **Data Visualisation & Reporting**  
 - 📈 **Excel**: PivotTables, advanced formulas, and charts – my spreadsheet superpowers!  
-- 🎨 **Tableau**: Turning raw data into stunning, interactive visualizations.  
+- 🎨 **Tableau**: Turning raw data into stunning, interactive visualisations.  
 - 💡 **Power BI**: Learning DAX and crafting reports that pack a punch.  
 
 ### **Database Management**  
